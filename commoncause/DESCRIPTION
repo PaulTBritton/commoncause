@@ -1,0 +1,9 @@
+Package: commoncause
+Type: Package
+Title: Compute the conditional probability of multiple failures given at least one failure.
+Version: 1.0
+Date: 2014-06-17
+Author: Paul Thomas Britton
+Maintainer: Paul Thomas Britton <paul.t.britton@nasa.gov>
+Description: Compute the conditional probability of M or more failures from a group of k components given at least one failure.  The arguments are M and a list of k vectors each of size N containing samples from the margins of the dirichlet distribution associated with the system of components.
+License: GPL-2
